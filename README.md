@@ -15,7 +15,7 @@ This project focuses on Speech Emotion Recognition (SER), a technology that auto
 
 
 ## Contributors
-- [RISHIKESH SHYAM R S](https://github.com/rishikeshshyam/): Role in the project.
+- [RISHIKESH SHYAM R S](https://github.com/rishikeshshyam/)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
